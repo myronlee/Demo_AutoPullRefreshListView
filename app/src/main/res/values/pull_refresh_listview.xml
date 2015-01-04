@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- CustomListview -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载…</string>
+    <string name="xlistview_header_hint_loaded">加载完成</string>
+    <string name="xlistview_header_last_time">最近更新：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_footer_hint_no_more">已是全部数据</string>
+
+    <color name="refresh_head_bg">#2d3132</color>
+    <color name="white">#f9f9f9</color>
+
+</resources>
